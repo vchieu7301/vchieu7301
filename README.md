@@ -22,8 +22,8 @@
 <br>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=vchieu7301&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchieu7301&layout=default&theme=gotham&hide=html&hide_border=true&card_width=500&card_height=500">
+<p><img algin="left" src="https://github-readme-stats.vercel.app/api?username=vchieu7301&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true">
+<img algin="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchieu7301&layout=default&theme=gotham&hide=html&hide_border=true&card_width=500&card_height=500">
 </p>
 
 
