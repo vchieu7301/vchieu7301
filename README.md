@@ -1,31 +1,136 @@
+## Hey 👋, I'm [Nguyen Van Chieu!](https://github.com/vchieu7301/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chi%C3%AAu-nguy%E1%BB%85n-141172228/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/vchieu7301/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/vanchieu_73)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/chieeu.73/)
+
+### Glad to see you here! &nbsp;
+
+I'm a graduate in Computer Programmer 🎓 from Ly Tu Trong College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+Joined Github **4** years ago.
+
+Previously, I had the opportunity to experience working at 2 different companies, to practice teamwork skills as well as web programming thinking with PHP, Laravel Framework, Reactjs. Participating in completing company projects, learning and implementing new technologies, handling and implementing APIs..
+
+Like My Work?
+
+<a href="#"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://github.com/vchieu7301)
-### Hi there 👋
 
+### Talking about Personal Stuffs:
 
+- 🛠 &nbsp; I’m currently working with Laravel, React, <br />  MSSQL, My SQL, Javascript, Postman, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [https://github.com/vchieu7301/).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/vchieu7301/)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: nguyenvanchieuforwork@gmail.com.
 
+### My Absolute Favorites:
 
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)&emsp;
-[<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)&emsp;
-[<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)&emsp;
-<br>
-<br>
-<br>
-[<img src="https://nocodebuilding.com/wp-content/uploads/2021/03/logo-gmail-384x375.png" alt="gmail" width="70">](https://www.google.com/intl/vi/gmail/about/)&emsp;
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gmail" width="70">](https://www.linkedin.com/in/chi%C3%AAu-nguy%E1%BB%85n-141172228/)&emsp;
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
 
+### Languages and Tools:
 
-<p><img algin="left" src="https://github-readme-stats.vercel.app/api?username=vchieu7301&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true">
-<img algin="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchieu7301&layout=default&theme=gotham&hide=html&hide_border=true&card_width=500&card_height=500">
-</p>
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/laravel.png" alt="laravel"></code>
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/reactjs.png" alt="react"></code>
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/js.png" alt="javascript"></code>
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/node.png" alt="nodejs"></code>
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/sql.png" alt="sql"></code>
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/git.png" alt="git"></code>
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/postman.png" alt="postman"></code>
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/ter.png" alt="terminal"></code>
 
+### Projects and Dev Stuffs:
 
-<img src="https://camo.githubusercontent.com/c3bb2e323f53944ecacde5f5fa03a0ad410e325f66fd5ac64c2c38992c9b761a/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d416c656b7365792d566f6b6f267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526686964655f7469746c653d74727565" width="100%" alt="activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Aleksey-Voko&amp;theme=react-dark&amp;hide_border=true&amp;hide_title=true" style="max-width: 100%;">
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vchieu7301&theme=gotham&hide_border=true"></p>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vchieu7301&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchieu7301&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vchieu7301&hide_border=true" />
+</details>
+
+<details>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/vchieu7301/Book_Shop_FE"><b>🚀 Book_Shop_BE</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vchieu7301/Book_Shop_FE?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/vchieu7301/Book_Shop_FE?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/vchieu7301/Book_Shop_FE?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vchieu7301/Book_Shop_FE?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/vchieu7301/Book_Shop_FE?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/vchieu7301/Book_Shop_FE"><b>💸 Book_Shop_FE</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vchieu7301/Book_Shop_FE?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/vchieu7301/Book_Shop_FE?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/vchieu7301/Book_Shop_FE?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vchieu7301/Book_Shop_FE?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/vchieu7301/Book_Shop_FE?label=javascript&style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/vchieu7301/Staff-Management"><b>👨🏻‍💻 Staff-Management</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vchieu7301/Staff-Management?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/vchieu7301/Staff-Management?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/vchieu7301/Staff-Management?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vchieu7301/Staff-Management?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/vchieu7301/Staff-Management?style=flat-square"/></td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/vchieu7301/PHP-Courses-For-Beginner"><b>🤓 PHP-Courses-For-Beginnei</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vchieu7301/PHP-Courses-For-Beginner?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/vchieu7301/PHP-Courses-For-Beginner?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/vchieu7301/PHP-Courses-For-Beginner?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vchieu7301/PHP-Courses-For-Beginner?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+ 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+	    <li><b>Laptop: </b> HP 15s-du0040TX (i7)</li>
+  	   <li><b>Browser: </b> Microsoft Edge Web Browser</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Stackoverflow, Linkedin and Twitter.</li>
+	    <br />
+	</ul>	
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
