@@ -13,10 +13,6 @@ Joined Github **4** years ago.
 
 Previously, I had the opportunity to experience working at 2 different companies, to practice teamwork skills as well as web programming thinking with PHP, Laravel Framework, Reactjs. Participating in completing company projects, learning and implementing new technologies, handling and implementing APIs..
 
-Like My Work?
-
-<a href="#"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://github.com/vchieu7301)
 
 ### Talking about Personal Stuffs:
