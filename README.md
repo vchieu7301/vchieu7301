@@ -17,7 +17,7 @@ Previously, I had the opportunity to experience working at 2 different companies
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Laravel, React, <br />  MSSQL, My SQL, Javascript, Postman, etc.
+- 🛠 &nbsp; I’m currently working with Laravel, React, React Native <br />  MSSQL, MySQL, Javascript, Postman, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [https://github.com/vchieu7301/).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/vchieu7301/)! I am happy to help.
