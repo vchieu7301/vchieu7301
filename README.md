@@ -9,7 +9,7 @@
 
 I'm a graduate in Computer Programmer 🎓 from Ly Tu Trong College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **4** years ago.
+Joined Github **3** years ago.
 
 Previously, I had the opportunity to experience working at 2 different companies, to practice teamwork skills as well as web programming thinking with PHP, Laravel Framework, Reactjs. Participating in completing company projects, learning and implementing new technologies, handling and implementing APIs..
 
@@ -17,7 +17,7 @@ Previously, I had the opportunity to experience working at 2 different companies
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Laravel, React, React Native <br />  MSSQL, MySQL, Javascript, Postman, etc.
+- 🛠 &nbsp; I’m currently working with PHP, Laravel, Reactjs, React Native <br />  MSSQL, MySQL, MongoDB, Javascript, Postman, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [https://github.com/vchieu7301/).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/vchieu7301/)! I am happy to help.
@@ -75,20 +75,20 @@ Previously, I had the opportunity to experience working at 2 different companies
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/vchieu7301/Book_Shop_FE"><b>🚀 Book_Shop_BE</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/vchieu7301/Book_Shop_FE?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/vchieu7301/Book_Shop_FE?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/vchieu7301/Book_Shop_FE?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vchieu7301/Book_Shop_FE?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/vchieu7301/Book_Shop_FE?style=flat-square"/></td>
+	      <td><a href="https://github.com/vchieu7301/shop-bee"><b>🚀 Shop-Bee-BE</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vchieu7301/shop-bee?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/vchieu7301/shop-bee?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/vchieu7301/shop-bee?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vchieu7301/shop-bee?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/vchieu7301/shop-bee?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/vchieu7301/Book_Shop_FE"><b>💸 Book_Shop_FE</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/vchieu7301/Book_Shop_FE?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/vchieu7301/Book_Shop_FE?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/vchieu7301/Book_Shop_FE?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vchieu7301/Book_Shop_FE?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/vchieu7301/Book_Shop_FE?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/vchieu7301/shop-bee-fe"><b>💸 Shop-Bee-FE</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vchieu7301/shop-bee-fe?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/vchieu7301/shop-bee-fe?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/vchieu7301/shop-bee-fe?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vchieu7301/shop-bee-fe?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/vchieu7301/shop-bee-fe?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/vchieu7301/Staff-Management"><b>👨🏻‍💻 Staff-Management</b></a></td>
@@ -99,11 +99,19 @@ Previously, I had the opportunity to experience working at 2 different companies
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/vchieu7301/Staff-Management?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/vchieu7301/PHP-Courses-For-Beginner"><b>🤓 PHP-Courses-For-Beginnei</b></a></td>
+	      <td><a href="https://github.com/vchieu7301/PHP-Courses-For-Beginner"><b>🤓 PHP-Courses-For-Beginner</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/vchieu7301/PHP-Courses-For-Beginner?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/vchieu7301/PHP-Courses-For-Beginner?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/vchieu7301/PHP-Courses-For-Beginner?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vchieu7301/PHP-Courses-For-Beginner?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+      </tr>
+	    <tr>
+	      <td><a href="https://github.com/vchieu7301/Javascript-Course-For-Beginner"><b>🐱‍💻 Javacript-Courses-For-Beginner</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/vchieu7301/Javascript-Course-For-Beginner?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/vchieu7301/Javascript-Course-For-Beginner?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/vchieu7301/Javascript-Course-For-Beginner?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vchieu7301/Javascript-Course-For-Beginner?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
       </tr>
     </tbody>
