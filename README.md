@@ -9,7 +9,7 @@
 
 I'm a graduate in Computer Programmer 🎓 from Ly Tu Trong College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **3** years ago.
+Joined Github in **4** years ago.
 
 Previously, I had the opportunity to experience working at 2 different companies, to practice teamwork skills as well as web programming thinking with PHP, Laravel Framework, Reactjs. Participating in completing company projects, learning and implementing new technologies, handling and implementing APIs..
 
