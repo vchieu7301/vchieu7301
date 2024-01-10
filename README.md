@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a graduate in Computer Programmer 🎓 from Ly Tu Trong College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm currently a student 👨‍🎓 at Ho Chi Minh City University of Technical Education 🏛, pursuing my studies after graduating from Ly Tu Trong College with a degree in Computer Programming 🎓. I'm an enthusiastic learner, always eager to explore and work across various technologies and domains 💡. My passion lies in discovering new technologies and applying them to tackle real-life challenges ✨. Additionally, I enjoy guiding and mentoring newcomers to the field of programming and technology 👨🏻‍💻. At present, my focus is on Web Development 🕸️ while also enhancing my knowledge of Data Structures and Algorithms 🤓."
 
 Joined Github in **4** years ago.
 
