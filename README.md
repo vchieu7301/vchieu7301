@@ -17,7 +17,7 @@ Previously, I had the opportunity to experience working at 2 different companies
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with PHP, Laravel, Reactjs, React Native <br />  MSSQL, MySQL, MongoDB, Javascript, Postman, etc.
+- 🛠 &nbsp; I’m currently working with PHP, Laravel, ReactJs, React Native <br />  MSSQL, MySQL, MongoDB, Javascript, Postman, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [https://github.com/vchieu7301/).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/vchieu7301/)! I am happy to help.
@@ -31,12 +31,15 @@ Previously, I had the opportunity to experience working at 2 different companies
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
-
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/net.png" alt="net"></code>
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/php.jpg" alt="php"></code>
 <code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/laravel.png" alt="laravel"></code>
 <code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/reactjs.png" alt="react"></code>
 <code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/js.png" alt="javascript"></code>
 <code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/node.png" alt="nodejs"></code>
 <code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/sql.png" alt="sql"></code>
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/mysql.jpg" alt="mysql"></code>
+<code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/mongodb.png" alt="mongodb"></code>
 <code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/git.png" alt="git"></code>
 <code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/postman.png" alt="postman"></code>
 <code><img height="27" src="https://github.com/vchieu7301/vchieu7301/blob/main/icon/ter.png" alt="terminal"></code>
@@ -47,7 +50,7 @@ Previously, I had the opportunity to experience working at 2 different companies
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vchieu7301&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vchieu7301&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchieu7301&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
