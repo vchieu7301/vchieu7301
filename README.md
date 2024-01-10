@@ -13,7 +13,7 @@ Joined Github in **4** years ago.
 
 Previously, I had the opportunity to experience working at 2 different companies, to practice teamwork skills as well as web programming thinking with PHP, Laravel Framework, Reactjs. Participating in completing company projects, learning and implementing new technologies, handling and implementing APIs..
 
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://github.com/vchieu7301)
+[<img align='right' src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="220" alt="giphy">](https://github.com/vchieu7301)
 
 ### Talking about Personal Stuffs:
 
